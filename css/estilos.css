@@ -1,0 +1,91 @@
+@font-face {
+    font-family: "Karla";
+    src: url(../font/Karla-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../font/RobotoSlab-Bold.ttf);
+}
+
+header{
+    font-family: Roboto;
+    background-color: #dee2a7;
+}
+
+h1{
+    font-family: Roboto;
+}
+
+.t1{
+    color: #a5814b;
+}
+
+.t2{
+    color: #6b6a64;
+}
+
+p{
+    font-family: Karla;
+}
+
+.logotipo{
+    width: 75px;
+}
+
+.ico{
+    color: #c207c9;
+    
+}
+
+h5{
+    font-family: Karla;
+}
+
+.t4{
+    color: #463927;
+}
+
+.le{
+    color: rgba(104, 85, 32, 0.8);
+}
+
+.nav-link{
+    color: rgba(104, 85, 32, 0.8);
+}
+
+.nav-link:hover{
+    color: rgb(158, 107, 13);
+}
+
+.ima{
+    border-radius: 5%;
+}
+
+#habilidades{
+    background: url(../imagenes/fondo3.png) no-repeat fixed;
+    background-size: cover;
+}
+
+.pro{
+    background-color: #8a2be2;
+}
+
+.carr{
+    background-color: #463927;
+}
+
+.icon{
+    font-size: 30px;
+    margin: 10px;
+}
+
+.sp{
+    background-color: #776348;
+    color: #fff;
+}
+
+.form-control:focus{
+    border-color: #776348;
+    box-shadow: 0 0 0 0.25rem rgba(145, 146, 67, 0.548);
+}
